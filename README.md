@@ -10,6 +10,7 @@ This team project was carried in collaboration with Northern Illinois University
 
 - <b>Python</b> 
 - <b>Jupyter Notebook</b>
+- <b>Google Colab</b>
 - <b>NIU Triton Server</b>
 - <b>ArcGIS Pro</b>
 - <b>Microsoft Word, Excel and PowerPoint</b>
