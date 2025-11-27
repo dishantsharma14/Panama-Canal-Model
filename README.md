@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This team project was carried in collaboration with Northern Illinois University (NIU) and Everstream Analytics in 2025. I acted as the Team Leader for a team of 5 members. We developed a multiple regression model to predict future water levels in the Gatun Lake, a major part of Panama Canal. The water levels have become more variable in recent years negatively impacting the businesses. During the periods of low water levels, restrictions are imposed on the number of ships that can pass through the canal. Our purpose was to improve shipping operations efficiency by creating a simple but useful method of predicting water levels in advance. We tested several explanatory variables and finally selected three that gave us the highest R-squared value of 28%. 
+This team project was carried in collaboration with Northern Illinois University (NIU) and Everstream Analytics in 2025. I acted as the Team Leader for a team of 5 members. We developed a multiple regression model to predict future water levels in the Gatun Lake, a major part of Panama Canal. During the periods of low water levels, restrictions are imposed on the number of ships that can pass through the canal. The water levels have become more variable in recent years negatively impacting the businesses. Our purpose was to improve shipping operations efficiency by creating a simple but useful method of predicting water levels in advance. We tested several explanatory variables and finally selected three that gave us the highest R-squared value of 32%. 
 <br />
 
 
@@ -55,7 +55,7 @@ BoxPlot to analyze monthly variation in Lake Level:  <br/>
 <img src="https://i.imgur.com/pFUgm3w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Using ANOVA to Evaluate Relationshio Between ENSO Phases (Categorical Variable) with Lake Levels:  <br/>
+Using ANOVA to Evaluate Relationship Between ENSO Phases (Categorical Variable) with Lake Levels:  <br/>
 <img src="https://i.imgur.com/3i8wqiE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/WxHPQxo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
@@ -67,7 +67,7 @@ Running Multiple Linear Regression:  <br/>
 <img src="https://i.imgur.com/29f4wrv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Final Model (post-calibration and removal of insignifant variables):  <br/>
+Final Model (post-calibration and removal of insignificant variables):  <br/>
 <img src="https://i.imgur.com/E4BKhAg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
