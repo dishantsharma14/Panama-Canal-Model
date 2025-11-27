@@ -19,7 +19,7 @@ This team project was carried in collaboration with Northern Illinois University
 
 <p align="center">
 Data extraction from multiple sources: <br/>
-<img src="https://niuits-my.sharepoint.com/:i:/g/personal/z1985840_students_niu_edu/IQDidfU9g0HEQL0tG2bIhD7FAaD7esUuO7UqLeGnMVPSdUc?e=ipnxXY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XN7uk4l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
