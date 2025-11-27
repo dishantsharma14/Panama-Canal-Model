@@ -17,7 +17,7 @@ This team project was carried in collaboration with Northern Illinois University
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Annonated Study Area Map Created in ArcGIS Pro :  <br/>
+Annonated Study Area Map created in ArcGIS Pro :  <br/>
 <img src="https://i.imgur.com/gTFDG4Q.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -51,11 +51,11 @@ Correlation Matrix of Explanatory Variables and Dependent Variable (Lake Level):
 <img src="https://i.imgur.com/H7DUIcM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-BoxPlot to analyze monthly variation in Lake Level:  <br/>
+BoxPlot to Analyze Monthly Variation in Lake Level:  <br/>
 <img src="https://i.imgur.com/pFUgm3w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Using ANOVA to Evaluate Relationship Between ENSO Phases (Categorical Variable) with Lake Levels:  <br/>
+Using ANOVA to Evaluate Relationship between ENSO Phases (Categorical Variable) with Lake Levels:  <br/>
 <img src="https://i.imgur.com/3i8wqiE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/WxHPQxo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
@@ -67,7 +67,7 @@ Running Multiple Linear Regression:  <br/>
 <img src="https://i.imgur.com/29f4wrv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Final Model (post-calibration and removal of insignificant variables):  <br/>
+Final Model (Post-Calibration and Removal of Insignificant Variables):  <br/>
 <img src="https://i.imgur.com/E4BKhAg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
