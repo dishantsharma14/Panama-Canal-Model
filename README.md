@@ -43,7 +43,7 @@ Trend Analysis:  <br/>
 <img src="https://i.imgur.com/hVWrwhx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Examining Reanalysis Cimate Data Quality:  <br/>
+Examining Climate Data Quality:  <br/>
 <img src="https://i.imgur.com/BJrd35W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
