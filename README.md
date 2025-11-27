@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This team project was carried in collaboration with Northern Illinois University (NIU) and Everstream Analytics in 2025. I acted as the Team Leader for a team of 5 members. We developed a regression model to predict future water levels in the Gatun Lake, a major part of Panama Canal. The water levels have become more variable in recent years negatively impacting the businesses. During the periods of low water levels, restrictions are imposed on the number of ships that can pass through the canal. Our purpose was to improve shipping operations efficiency by creating a simple but useful method of predicting water levels in advance. We tested several explanatory variables and finally selected three that gave us the highest R-squared value of 28%. 
+This team project was carried in collaboration with Northern Illinois University (NIU) and Everstream Analytics in 2025. I acted as the Team Leader for a team of 5 members. We developed a multiple regression model to predict future water levels in the Gatun Lake, a major part of Panama Canal. The water levels have become more variable in recent years negatively impacting the businesses. During the periods of low water levels, restrictions are imposed on the number of ships that can pass through the canal. Our purpose was to improve shipping operations efficiency by creating a simple but useful method of predicting water levels in advance. We tested several explanatory variables and finally selected three that gave us the highest R-squared value of 28%. 
 <br />
 
 
@@ -15,11 +15,11 @@ This team project was carried in collaboration with Northern Illinois University
 - <b>ArcGIS Pro</b>
 - <b>Microsoft Word, Excel and PowerPoint</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Data extraction from multiple sources: <br/>
+<img src="https://niuits-my.sharepoint.com/:i:/g/personal/z1985840_students_niu_edu/IQDidfU9g0HEQL0tG2bIhD7FATKbZrYEyimXLzgPUr47iho?e=JakmEX" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
