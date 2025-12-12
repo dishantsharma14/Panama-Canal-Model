@@ -37,7 +37,7 @@ Data Cleaning in Excel and Pandas (Daily Lake Level data from 1965-2023): <br/>
 <img src="https://i.imgur.com/y2XzSar.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Trend Analysis:  <br/>
+EDA and Time-Series Analysis:  <br/>
 <img src="https://i.imgur.com/jALJify.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/hVWrwhx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
