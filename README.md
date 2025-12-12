@@ -32,7 +32,7 @@ Extracting Multidimentional Data (NetCDF) using Xarray:  <br/>
 <br />
 <br />
 Data Cleaning in Excel and Pandas (Daily Lake Level data from 1965-2023): <br/>
-<img src="https://i.imgur.com/AMuuDTK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AMuuDTK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/y2XzSar.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
