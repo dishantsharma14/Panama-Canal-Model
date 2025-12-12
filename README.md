@@ -70,6 +70,7 @@ Running Multiple Linear Regression:  <br/>
 Final Model (Post-Calibration and Removal of Insignificant Variables):  <br/>
 <img src="https://i.imgur.com/E4BKhAg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We predicted a lower than mean lake level for the year 2025, and that held true as of December, 2025.
 </p>
 
 <!--
